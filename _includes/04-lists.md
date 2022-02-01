@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+MY HOBBIES
+1. WATCHING MOVIES
+2. PLAYING FOOTBALL
+3. SINGING
+   1. Classical
+   2. Pop
